@@ -1,5 +1,6 @@
 Question 1 (Array)
 Platform - Geeksforgeeks
+
 https://www.geeksforgeeks.org/dsa/find-the-first-missing-number/
 
 Approach – 
@@ -12,6 +13,7 @@ Otherwise, if all numbers from 0 to m−1 were present, the loop continued till 
 
 Question 2 (STACK)
 Platform - Geeksforgeeks
+
 https://www.geeksforgeeks.org/dsa/remove-duplicates-from-a-sorted-linked-list/
  
 Approach – 
